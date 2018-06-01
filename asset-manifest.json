@@ -1,7 +1,12 @@
 {
-  "main.css": "static/css/main.25dd3ad3.css",
-  "main.css.map": "static/css/main.25dd3ad3.css.map",
-  "main.js": "static/js/main.c791ccf5.js",
-  "main.js.map": "static/js/main.c791ccf5.js.map",
+  "main.css": "static/css/main.efbbc828.css",
+  "main.css.map": "static/css/main.efbbc828.css.map",
+  "main.js": "static/js/main.ee5fe685.js",
+  "main.js.map": "static/js/main.ee5fe685.js.map",
+  "static/media/TrebuchetMS.eot": "static/media/TrebuchetMS.ea21424b.eot",
+  "static/media/TrebuchetMS.svg": "static/media/TrebuchetMS.a367935c.svg",
+  "static/media/TrebuchetMS.ttf": "static/media/TrebuchetMS.289d9923.ttf",
+  "static/media/TrebuchetMS.woff": "static/media/TrebuchetMS.f2bb6f22.woff",
+  "static/media/TrebuchetMS.woff2": "static/media/TrebuchetMS.af1d9a90.woff2",
   "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
 }
